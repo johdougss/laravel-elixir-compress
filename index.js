@@ -11,6 +11,7 @@ elixir.extend('compress', function () {
             removeAttributeQuotes: true,
             removeComments: true,
             minifyJS: true
+
         };
         return gulp.src('./storage/framework/views/**/*')
             .pipe(htmlmin(opts))
