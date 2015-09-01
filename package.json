@@ -1,6 +1,6 @@
 {
-  "name": "laravel-elixir-htmlmin",
-  "version": "1.0.1",
+  "name": "laravel-elixir-compress",
+  "version": "1.0.2",
   "description": "Laravel Elixir Compress Extension",
   "main": "index.js",
   "keywords": [
