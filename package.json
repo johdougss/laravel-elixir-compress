@@ -1,0 +1,27 @@
+{
+  "name": "laravel-elixir-compress",
+  "version": "1.0.1",
+  "description": "Laravel Elixir Compress Extension",
+  "main": "index.js",
+  "keywords": [
+    "laravel",
+    "elixir",
+    "compress",
+    "htmlmin",
+    "gulp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnathansantos/laravel-elixir-compress"
+  },
+  "author": "johdougss",
+  "license": "MIT",
+  "homepage": "https://github.com/johnathansantos/laravel-elixir-compress",
+  "bugs": {
+    "url": "https://github.com/johnathansantos/laravel-elixir-compress/issues"
+  },
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-htmlmin": "^1.1.4"
+  }
+}
